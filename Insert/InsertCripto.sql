@@ -1,0 +1,17 @@
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('BIT', precios(7000,7000,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('ETH', precios(600,600,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('FAB', precios(100,100,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('EOS', precios(179,179,0));                   
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('BNB', precios(863,863,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('SKY', precios(603,603,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('ARN', precios(725,725,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('XRP', precios(473,473,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('LTC', precios(677,677,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('ADA', precios(574,574,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('IOTA',precios(360,360,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('LTC', precios(345,345,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('TRX', precios(461,461,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('QKC', precios(446,446,0));                
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('SAS', precios(788,788,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('BOB', precios(102,102,0));
+INSERT INTO criptomoneda (cri_nombre,cri_precio)VALUES('YTY', precios(922,922,0));
